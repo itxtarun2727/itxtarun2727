@@ -4,8 +4,8 @@
 
 ### Aspiring Full Stack Developer | DSA Learner | MAANG Aspirant
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tarun-321547331/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00d4ff)]([https://leetcode.com/itxtarun2727](https://leetcode.com/u/AlgoTarun/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/tarun-321547331/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/AlgoTarun/))
 
 </div>
 
